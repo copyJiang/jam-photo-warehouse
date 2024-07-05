@@ -1,4 +1,4 @@
-## 使用express框架
+## 使用express框架 node-v16.12.0
 
 ### 全局安装 express-generator
 
@@ -29,3 +29,7 @@ npm i winston
 ### 配置打印日志格式
 
 在项目的根目录添加一个配置打印日志格式的文件 logger.js
+
+## MySql DBeaver
+
+npm i mysql
